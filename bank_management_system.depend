@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1641734333 source:d:\c projects\bank_management_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"information.h"
+	"bank_functions.h"
+
+1641736900 d:\c projects\bank_management_system\information.h
+
+1641731193 d:\c projects\bank_management_system\bank_functions.h
+	"information.h"
+
+1642054227 source:d:\c projects\bank_management_system\bank_functions.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"bank_functions.h"
+
